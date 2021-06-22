@@ -1,4 +1,4 @@
-Case özetle süreç çalıştığında tanımlanan bir mail adresine gelen mailleri okuyacak.
+süreç çalıştığında tanımlanan bir mail adresine gelen mailleri okuyacak.
 Bu maillerde istenilen formata uygun olanlar için web tarayıcısı üzerinden arama yapacak.
 Arama sonuçlarını mail yollayan kişeye mail atacak. Bu işlemlerden herhangi birinde 
 hata alınırsa mail yollayan kişiye atılan mail ile birlikte alınan hatayı yollayacak ve bir sonraki işleme devam edecek.
